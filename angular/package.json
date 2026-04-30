@@ -46,7 +46,7 @@
     "i18next": "26.0.6",
     "handlebars": "4.7.9",
     "i18next-browser-languagedetector": "8.2.1",
-    "i18next-http-backend": "3.0.5",
+    "i18next-http-backend": "3.0.6",
     "leaflet": "1.9.4",
     "lodash-es": "4.17.23",
     "luxon": "3.7.2",
@@ -60,7 +60,7 @@
     "zone.js": "0.15.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "20.3.23",
+    "@angular-devkit/build-angular": "20.3.25",
     "@angular-devkit/core": "20.3.23",
     "@angular-devkit/schematics": "20.3.24",
     "@angular/compiler-cli": "20.3.19",
